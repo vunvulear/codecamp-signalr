@@ -1,0 +1,26 @@
+D:\temp\Codecamp\Codecamp Azure\bin\Codecamp.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Codecamp.pdb
+D:\temp\Codecamp\Codecamp Azure\bin\Antlr3.Runtime.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.ServiceBus.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.ServiceBus.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.Web.Infrastructure.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Newtonsoft.Json.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Owin.dll
+D:\temp\Codecamp\Codecamp Azure\bin\System.Web.Optimization.dll
+D:\temp\Codecamp\Codecamp Azure\bin\WebActivatorEx.dll
+D:\temp\Codecamp\Codecamp Azure\bin\WebGrease.dll
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.ServiceBus.xml
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\temp\Codecamp\Codecamp Azure\bin\Microsoft.ServiceBus.xml
+D:\temp\Codecamp\Codecamp Azure\bin\Newtonsoft.Json.xml
+D:\temp\Codecamp\Codecamp Azure\obj\Debug\Codecamp Azure.csprojResolveAssemblyReference.cache
+D:\temp\Codecamp\Codecamp Azure\obj\Debug\Codecamp.dll
+D:\temp\Codecamp\Codecamp Azure\obj\Debug\Codecamp.pdb
